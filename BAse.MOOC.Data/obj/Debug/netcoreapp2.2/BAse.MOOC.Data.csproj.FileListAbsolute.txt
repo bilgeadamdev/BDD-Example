@@ -1,0 +1,9 @@
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Data\bin\Debug\netcoreapp2.2\BAse.MOOC.Data.deps.json
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Data\bin\Debug\netcoreapp2.2\BAse.MOOC.Data.dll
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Data\bin\Debug\netcoreapp2.2\BAse.MOOC.Data.pdb
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Data\obj\Debug\netcoreapp2.2\BAse.MOOC.Data.csproj.CoreCompileInputs.cache
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Data\obj\Debug\netcoreapp2.2\BAse.MOOC.Data.AssemblyInfoInputs.cache
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Data\obj\Debug\netcoreapp2.2\BAse.MOOC.Data.AssemblyInfo.cs
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Data\obj\Debug\netcoreapp2.2\BAse.MOOC.Data.dll
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Data\obj\Debug\netcoreapp2.2\BAse.MOOC.Data.pdb
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Data\obj\Debug\netcoreapp2.2\BAse.MOOC.Data.csprojAssemblyReference.cache
