@@ -9,4 +9,4 @@
 
 ## Run Test Sample Screencast
 
-![BDD_16.gif](https://github.com/bilgeadamdev/docker_postgresql-redis-rabbitmq/blob/master/images/down_postgresql-redis-rabbitmq.gif)
+![BDD_16.gif](https://github.com/bilgeadamdev/BDD-Example/blob/master/images/BDD_16.gif)
