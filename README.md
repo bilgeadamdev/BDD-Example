@@ -6,3 +6,7 @@
 - Customer wants to login application with his credentials
 - There are 2 scenerio. First one login with invalid credentials and get error message. Second one is login with valid credentials and go to home page
 - To run tests in Test Explorer click  "**Run All**" Button.
+
+## Run Test Sample Screencast
+
+![BDD_16.gif](https://github.com/bilgeadamdev/docker_postgresql-redis-rabbitmq/blob/master/images/down_postgresql-redis-rabbitmq.gif)
