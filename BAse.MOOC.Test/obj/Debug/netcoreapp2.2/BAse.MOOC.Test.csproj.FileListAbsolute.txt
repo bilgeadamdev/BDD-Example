@@ -1,0 +1,14 @@
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\bin\Debug\netcoreapp2.2\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\bin\Debug\netcoreapp2.2\BAse.MOOC.Test.deps.json
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\bin\Debug\netcoreapp2.2\BAse.MOOC.Test.runtimeconfig.json
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\bin\Debug\netcoreapp2.2\BAse.MOOC.Test.runtimeconfig.dev.json
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\bin\Debug\netcoreapp2.2\BAse.MOOC.Test.dll
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\bin\Debug\netcoreapp2.2\BAse.MOOC.Test.pdb
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\obj\Debug\netcoreapp2.2\BAse.MOOC.Test.csproj.CoreCompileInputs.cache
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\obj\Debug\netcoreapp2.2\BAse.MOOC.Test.AssemblyInfoInputs.cache
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\obj\Debug\netcoreapp2.2\BAse.MOOC.Test.AssemblyInfo.cs
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\obj\Debug\netcoreapp2.2\BAse.MOOC.Test.dll
+C:\Users\srknbngl\Repos\200_Bilgeadam\BAse MOOC\src\BAse.MOOC.Test\obj\Debug\netcoreapp2.2\BAse.MOOC.Test.pdb
